@@ -116,7 +116,8 @@ dataset_info:
   dataset_size: 73688179.0
 ---
 
-# Dataset Card for Novelupdates Webnovels
+# Novelupdates Dataset
+![wordcloud](wordcloud.png)
 
 
 ### Dataset Summary
